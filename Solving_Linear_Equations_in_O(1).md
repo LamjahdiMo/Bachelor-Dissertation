@@ -127,8 +127,8 @@ y = (2B - 4A) / (6 - 4) = -2A + B
 
 Reconstructed inverse:
 
-[ 3/2 -1/2 ]
-[ -2 1 ]
+[ 3/2 -1/2 ]\
+[ -2    1  ]
 
 
 This offers an **explicit and instantaneous inverse**, bypassing determinant or elimination steps.
