@@ -68,7 +68,7 @@ Rewritten in augmented form:
 
 To solve for **y**, draw an **X** across the matrix:
 
-y = (5×6 - 2×11) / (5×2 - 3×2) = 2\
+y = (5×6 - 2×11) / (5×2 - 3×2) = 2
 
 
 To solve for **x**, switch the 5 and 3 in the first row:
@@ -122,7 +122,7 @@ Swap top row for y:
 A | 2 1\
 B | 4 3
 
-y = (2B - 4A) / (6 - 4) = -2A + B\
+y = (2B - 4A) / (6 - 4) = -2A + B
 
 
 Reconstructed inverse:
