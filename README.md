@@ -1,4 +1,6 @@
 # Dynamische Regelung der Walzkraft beim mechanischen Festwalzen
+[![DOI](https://zenodo.org/badge/1012079348.svg)](https://doi.org/10.5281/zenodo.15786688)
+
 
 ## Über die Arbeit
 
