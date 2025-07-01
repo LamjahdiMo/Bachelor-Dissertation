@@ -52,71 +52,50 @@ These methods claim **constant-time performance (`O(1)`)**, achieved through **v
 
 Let us begin with a standard 2×2 system:
 
-5x + 3y = 11
+5x + 3y = 11\
 2x + 2y = 6
 
-css
-Kopieren
-Bearbeiten
+
 
 Rewritten in augmented form:
 
-11 | 5 3
+11 | 5 3\
 6 | 2 2
 
-markdown
-Kopieren
-Bearbeiten
+
 
 ### X-Shape Construction
 
 To solve for **y**, draw an **X** across the matrix:
 
-y = (5×6 - 2×11) / (5×2 - 3×2) = 2
+y = (5×6 - 2×11) / (5×2 - 3×2) = 2\
 
-sql
-Kopieren
-Bearbeiten
 
 To solve for **x**, switch the 5 and 3 in the first row:
 
-11 | 3 5
-6 | 2 2
+11 | 3 5\
+6  | 2 2\
 
-x = (3×6 - 2×11) / (3×2 - 5×2) = 1
+x = (3×6 - 2×11) / (3×2 - 5×2) = 1\
 
-makefile
-Kopieren
-Bearbeiten
 
 ### Generalized Form
 
 Given:
 
-a1 x + b1 y = E1
+a1 x + b1 y = E1\
 a2 x + b2 y = E2
-
-csharp
-Kopieren
-Bearbeiten
 
 Write as:
 
-E1 | a1 b1
+E1 | a1 b1\
 E2 | a2 b2
 
-makefile
-Kopieren
-Bearbeiten
 
 Then:
 
-x = (b1×E2 - b2×E1) / (b1×a2 - a1×b2)
+x = (b1×E2 - b2×E1) / (b1×a2 - a1×b2)\
 y = (a1×E2 - a2×E1) / (a1×b2 - b1×a2)
-
-yaml
-Kopieren
-Bearbeiten
 
 The X-drawing reduces the system to constant-time arithmetic—no loops, no steps, no elimination.
 
@@ -126,49 +105,31 @@ The X-drawing reduces the system to constant-time arithmetic—no loops, no step
 
 Consider:
 
-x + 2y = A
-3x + 4y = B
-
-csharp
-Kopieren
-Bearbeiten
+x + 2y = A\
+3x + 4y = B\
 
 Written as:
 
-A | 1 2
-B | 3 4
-
-makefile
-Kopieren
-Bearbeiten
+A | 1 2\
+B | 3 4\
 
 Then:
 
-x = (B - 3A) / (4 - 6) = 3A/2 - B/2
-
-css
-Kopieren
-Bearbeiten
+x = (B - 3A) / (4 - 6) = 3A/2 - B/2\
 
 Swap top row for y:
 
-A | 2 1
+A | 2 1\
 B | 4 3
 
-y = (2B - 4A) / (6 - 4) = -2A + B
+y = (2B - 4A) / (6 - 4) = -2A + B\
 
-yaml
-Kopieren
-Bearbeiten
 
 Reconstructed inverse:
 
 [ 3/2 -1/2 ]
 [ -2 1 ]
 
-yaml
-Kopieren
-Bearbeiten
 
 This offers an **explicit and instantaneous inverse**, bypassing determinant or elimination steps.
 
@@ -178,43 +139,29 @@ This offers an **explicit and instantaneous inverse**, bypassing determinant or 
 
 Consider the system:
 
-x + y + z = 6
-2x + y - z = 1
--x + 2y + 2z = 9
+x + y + z = 6\
+2x + y - z = 1\
+-x + 2y + 2z = 9\
 
-csharp
-Kopieren
-Bearbeiten
 
 Written as:
 
-| 6 | 1 1 1 |
-| 1 | 2 1 -1 |
-| 9 | -1 2 2 |
+| 6 | 1 1 1 |\
+| 1 | 2 1 -1 |\
+| 9 | -1 2 2 |\
 
-csharp
-Kopieren
-Bearbeiten
 
 Shift terms with x:
 
-| 6 - x 1 1 |
-| 1 - 2x 1 -1 |
-| 9 + x 2 2 |
-
-markdown
-Kopieren
-Bearbeiten
+| 6 - x 1 1 |\
+| 1 - 2x 1 -1 |\
+| 9 + x 2 2 |\
 
 Draw **two intersecting Xs** (or an 8-shape). Trace the edges and substitute:
 
-x = 1
-z = 3
-y = 2
-
-yaml
-Kopieren
-Bearbeiten
+x = 1\
+z = 3\
+y = 2\
 
 ### Why the Gitter Xs Matter
 
