@@ -1,8 +1,8 @@
-## Lizenz / License
+Lizenz / License
 
-Dieses Werk ist lizenziert unter der **Creative Commons Namensnennung-NichtKommerziell 4.0 International Lizenz (CC BY-NC 4.0)**.
+Dieses Werk ist lizenziert unter der Creative Commons Namensnennung-NichtKommerziell 4.0 International Lizenz (CC BY-NC 4.0).
 
-Sie dürfen dieses Werk teilen, verbreiten und bearbeiten – jedoch **nicht kommerziell nutzen** – **und müssen den Urheber nennen**.
+Sie dürfen dieses Werk teilen, verbreiten und bearbeiten – jedoch nicht kommerziell nutzen – und müssen den Urheber nennen.
 
 Lizenz-URL: https://creativecommons.org/licenses/by-nc/4.0/
 
