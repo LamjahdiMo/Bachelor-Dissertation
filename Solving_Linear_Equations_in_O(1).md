@@ -60,7 +60,7 @@ Let us begin with a standard 2×2 system:
 Rewritten in augmented form:
 
 11 | 5 3\
-6 | 2 2
+6  | 2 2
 
 
 
@@ -74,9 +74,9 @@ y = (5×6 - 2×11) / (5×2 - 3×2) = 2\
 To solve for **x**, switch the 5 and 3 in the first row:
 
 11 | 3 5\
-6  | 2 2\
+6  | 2 2
 
-x = (3×6 - 2×11) / (3×2 - 5×2) = 1\
+x = (3×6 - 2×11) / (3×2 - 5×2) = 1
 
 
 ### Generalized Form
@@ -106,16 +106,16 @@ The X-drawing reduces the system to constant-time arithmetic—no loops, no step
 Consider:
 
 x + 2y = A\
-3x + 4y = B\
+3x + 4y = B
 
 Written as:
 
 A | 1 2\
-B | 3 4\
+B | 3 4
 
 Then:
 
-x = (B - 3A) / (4 - 6) = 3A/2 - B/2\
+x = (B - 3A) / (4 - 6) = 3A/2 - B/2
 
 Swap top row for y:
 
@@ -141,27 +141,27 @@ Consider the system:
 
 x + y + z = 6\
 2x + y - z = 1\
--x + 2y + 2z = 9\
+-x + 2y + 2z = 9
 
 
 Written as:
 
 | 6 | 1 1 1 |\
 | 1 | 2 1 -1 |\
-| 9 | -1 2 2 |\
+| 9 | -1 2 2 |
 
 
 Shift terms with x:
 
 | 6 - x 1 1 |\
 | 1 - 2x 1 -1 |\
-| 9 + x 2 2 |\
+| 9 + x 2 2 |
 
 Draw **two intersecting Xs** (or an 8-shape). Trace the edges and substitute:
 
 x = 1\
 z = 3\
-y = 2\
+y = 2
 
 ### Why the Gitter Xs Matter
 
