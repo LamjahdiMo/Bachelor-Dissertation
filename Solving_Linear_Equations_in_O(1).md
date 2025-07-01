@@ -195,3 +195,76 @@ And if the world has tried to bury it, **help bring it to light.**
 ---
 
 **© Admin – HUBDMGD, 2024**
+
+# 📚 Blog Post Metadata Collection
+
+This document lists the publication and metadata details of four authored blog posts related to constant-time linear system solvers. Each entry includes publication date, source URL, PDF metadata, and file statistics.
+
+> ✅ **Verification Note**:  
+> The PDF metadata was extracted **directly from the original files** using standard tools (`PyPDF2` and `pdfinfo`) and has **not been modified**. All timestamps, authorship info, and structural metadata reflect the original state of the documents as created by the author.  
+
+---
+
+## 🧾 Summary Table
+
+| File              | Title                                               | Published        | PDF Created           | Pages | Link                                                                 |
+|-------------------|-----------------------------------------------------|------------------|------------------------|-------|----------------------------------------------------------------------|
+| `88.pdf`          | Proof of Concept: The 2X-Method                     | Feb 12, 2025     | Apr 19, 2025 – 16:27 UTC | 6     | [View Post](https://hubdmgd.eu/2025/02/12/proof-of-concept-the-2x-method) |
+| `InverseMatrix.pdf` | The O(1)-Syndrome: The Matrix and Bounties       | Dec 4, 2024      | Apr 19, 2025 – 16:29 UTC | 5     | [View Post](https://hubdmgd.eu/2024/12/04/the-o1-syndrom-the-matrix-and-bounties) |
+| `Gitter.pdf`      | Say Ciao to Gauss-Jordan for Good! Meet the “Gitter” (or 4X) | Oct 30, 2024 | Apr 19, 2025 – 16:30 UTC | 5     | [View Post](https://hubdmgd.eu/2024/10/30/say-ciao-to-gauss-jordan-for-good-meet-the-gitter-or-4x-method-to-solve-3x3-linear-systems-in-o1) |
+| `X.pdf`           | Outperforming Gaussian-Jordanian Elimination by Light Years | Jun 9, 2024 | Apr 19, 2025 – 16:32 UTC | 7     | [View Post](https://hubdmgd.eu/2024/06/09/outperforming-gaussian-elimination-by-light-years-a-novel-method-for-solving-linear-systems-in-o1) |
+
+---
+
+## 📄 Detailed Metadata
+
+### `88.pdf` — *Proof of Concept: The 2X-Method*
+- **Published**: February 12, 2025
+- **PDF Created**: April 19, 2025 – 16:27 UTC
+- **Creator**: Mozilla Nightly 137.0
+- **Producer**: cairo 1.18.0
+- **Pages**: 6
+- **PDF Version**: 1.7
+- **Encrypted**: No
+- **Link**: [Proof of Concept: The 2X-Method](https://hubdmgd.eu/2025/02/12/proof-of-concept-the-2x-method)
+
+---
+
+### `InverseMatrix.pdf` — *The O(1)-Syndrome: The Matrix and Bounties*
+- **Published**: December 4, 2024
+- **PDF Created**: April 19, 2025 – 16:29 UTC
+- **Creator**: Mozilla Nightly 137.0
+- **Producer**: cairo 1.18.0
+- **Pages**: 5
+- **PDF Version**: 1.7
+- **Encrypted**: No
+- **Link**: [The O(1)-Syndrome: The Matrix and Bounties](https://hubdmgd.eu/2024/12/04/the-o1-syndrom-the-matrix-and-bounties)
+
+---
+
+### `Gitter.pdf` — *Say Ciao to Gauss-Jordan for Good! Meet the “Gitter” (or 4X)*
+- **Published**: October 30, 2024
+- **PDF Created**: April 19, 2025 – 16:30 UTC
+- **Creator**: Mozilla Nightly 137.0
+- **Producer**: cairo 1.18.0
+- **Pages**: 5
+- **PDF Version**: 1.7
+- **Encrypted**: No
+- **Link**: [Gitter (4X) Method](https://hubdmgd.eu/2024/10/30/say-ciao-to-gauss-jordan-for-good-meet-the-gitter-or-4x-method-to-solve-3x3-linear-systems-in-o1)
+
+---
+
+### `X.pdf` — *Outperforming Gaussian-Jordanian Elimination by Light Years*
+- **Published**: June 9, 2024
+- **PDF Created**: April 19, 2025 – 16:32 UTC
+- **Creator**: Mozilla Nightly 137.0
+- **Producer**: cairo 1.18.0
+- **Pages**: 7
+- **PDF Version**: 1.7
+- **Encrypted**: No
+- **Link**: [Outperforming Gaussian Elimination](https://hubdmgd.eu/2024/06/09/outperforming-gaussian-elimination-by-light-years-a-novel-method-for-solving-linear-systems-in-o1)
+
+---
+
+> 🛡️ All documents include embedded timestamps and unaltered metadata. This list is suitable for citation, archiving, and formal claims of authorship and originality.
+
