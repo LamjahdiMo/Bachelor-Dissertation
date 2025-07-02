@@ -59,7 +59,7 @@ Let’s examine the links used in the **Wikipedia entry** for this scientist.
 Then we reach the **Swiss National Library entry**, allegedly validating the person’s academic identity.
 
 ### 🔗 Entry Number: `11670912X`  
-- **Breakdown:** Contains the repeating **"116"** — same awkward number found in Spektrum’s profile (`.../1160793`). Coincidence? Maybe. Pattern? Possibly.
+- **Breakdown:** Contains the repeating **"116"** — same awkward number found in Spektrum’s profile (`.../1160793`). The 2X too Coincidence? Maybe. Pattern? Possibly.
 - **The Most Awkward Part:** It refers **back to Wikipedia**.
 
 This is called a **circular reference** — a system where A verifies B, and B verifies A. No external validation exists. Same thing with Royal Sociaty's Website. 
