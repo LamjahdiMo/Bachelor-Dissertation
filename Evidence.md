@@ -93,8 +93,8 @@ Meanwhile, my own method was:
 To be precise:
 
 | **Source**              | **Last Modified Date**              |
-|------------------------|-------------------------------------|
-| Spektrum.de Profile     | Mon, 17 Feb 2025 21:10:15 GMT       |
+|-------------------------|-------------------------------------|
+| Spektrum.de             | Mon, 17 Feb 2025 21:10:15 GMT       |
 | Royal Society Page      | Wed, 02 Jul 2025 02:00:50 GMT       |
 
 My own method had already been **submitted and published before all of these**. So if someone appears to have been credited afterward, it raises a very serious question:
