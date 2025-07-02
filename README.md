@@ -54,8 +54,9 @@ Die Arbeit gliedert sich in mehrere Phasen:
 ## Betreuer & Prüfende
 
 - **Institut:** Institut für Fertigungstechnik und Werkzeugmaschinen (IFW)
-- **Erstprüfer:** Prof. Dr.-Ing. Bernd Ponick
-- **Zweitprüfer:** (nicht spezifiziert)
+- **Erstprüfer:** Prof. Dr.-Ing. Bernd Ponick.
+- **Zweitprüfer:** Prof. Dr.-Ing Berend Denkena.
+- **Betreuer:** Msc. Jan, Berlin.
 
 ## Abgabe
 
