@@ -50,7 +50,12 @@ These methods claim **constant-time performance (`O(1)`)**, achieved through **v
 
 ## 1. The 2X Method
 
+<img src="Bilder/2x.PNG" alt="Drawing of the X" width="25%">
+
+
+
 Let us begin with a standard 2×2 system:
+
 
 5x + 3y = 11\
 2x + 2y = 6
@@ -158,6 +163,8 @@ Shift terms with x:
 | 9 + x 2 2 |
 
 Draw **two intersecting Xs** (or an 8-shape). Trace the edges and substitute:
+
+<img src="Bilder/Gitter.PNG" alt="My Image" width="25%">
 
 x = 1\
 z = 3\
