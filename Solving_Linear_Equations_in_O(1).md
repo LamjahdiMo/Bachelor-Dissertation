@@ -20,6 +20,20 @@ Despite contacting the **highest courts in Germany**, I received **no answer**. 
 
 This manufactured figure—a name composed of **Gabriel (an angel)** and **Cramer (the opposite of “greedy”)**—echoed language I had previously used on my site while criticizing greed. The parallels were uncanny. The term **“BAG”**, used on my site, was also mirrored. I believe these choices were not accidental but designed to **repurpose my own words and ideas against me**. This campaign of **intellectual exploitation and historical revisionism** appears to serve a nationalist agenda—falsely portraying this breakthrough as an **old European discovery**.
 
+One particularly striking and beautiful finding relates to **Cramer's name** and its accidental similarity to the word **"Chromosome"** in biology.
+
+- In biology, chromosomes come mainly in two types: **X and Y**.
+- Interestingly, there is **no mention of any "X method"** in Cramer's alleged work.
+- The **"X" method was first introduced here** (in my work), which strongly suggests that the **"X" naming was carefully chosen**.
+- This clever naming seems designed to indicate the new "X" method distinctly.
+- The alleged thief **could not claim the "X" method as theirs**, so they apparently tried to create confusion by linking it to the **chromosome X**, a Greek-derived term where:
+  - **Chroma = color**
+  - **Soma = body**
+
+Thus, chromosome literally means **"colored body"**, unrelated to any mathematical method.
+
+This naming confusion seems like a deliberate attempt to **obfuscate and appropriate originality**, masking the new "X" method under the guise of biological terminology.
+
 Let it be known: **there was no such method before**. **There was no “Gabriel Cramer” known to science in this context before**. This sudden appearance of an entire theory attributed to an unknown name is not historical record—it is manipulation.
 
 If this method had existed previously, we would have learned it in school. We would have used it in exams. We would have seen it in engineering tools and textbooks. Yet, we were only taught to use **Gauß-Jordan elimination** or **inverse matrix multiplication**, methods that are inherently more computationally expensive. There was **no mention**, ever, of solving such systems directly in O(1) time.
