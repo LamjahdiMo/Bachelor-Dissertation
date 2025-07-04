@@ -6,7 +6,7 @@ authors:
     given-names: Mohamed El Mami
     affiliation: HUBDMGD Platform, Leibniz University
     orcid: "https://orcid.org/0009-0008-0532-9338"
-date-released: 2024-09-01
+date-released: 2024-09-30
 url: "https://github.com/LamjahdiMo/Bachelor-Dissertation"
 abstract: >
   This repository presents a novel set of algebraic predictors using new set of algebraic techniques—2X, Matrix Inversion, and Gitter (4X)—that solve linear systems of equations in constant time (O(1)). 
