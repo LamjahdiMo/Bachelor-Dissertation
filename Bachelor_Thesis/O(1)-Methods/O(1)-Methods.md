@@ -18,7 +18,7 @@ These methods claim **constant-time performance (`O(1)`)**, achieved through **v
 
 ## 1. The 2X Method
 
-<img src="Bilder/2x.PNG" alt="Drawing of the X" width="25%">
+<img src="Pictures/2x.PNG" alt="Drawing of the X" width="25%">
 
 
 
@@ -132,7 +132,7 @@ Shift terms with x:
 
 Draw **two intersecting Xs** (or an 8-shape). Trace the edges and substitute:
 
-<img src="Bilder/Gitter.PNG" alt="My Image" width="25%">
+<img src="Pictures/Gitter.PNG" alt="Gitter" width="25%">
 
 x = 1\
 z = 3\
@@ -146,7 +146,8 @@ y = 2
 
 ---
 
-## Comparison Table
+## Comparison 
+<img src="Pictures/Complexity.PNG" alt="O(1) vs O(n^3)" width="50%">
 
 | Method              | Type              | Steps Involved         | Complexity |
 |---------------------|-------------------|--------------------------|-------------|
