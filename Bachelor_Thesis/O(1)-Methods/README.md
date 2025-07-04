@@ -4,6 +4,7 @@
 
 ## Hyperlinks
 - [Bachelorthesis](https://github.com/LamjahdiMo/Bachelor-Dissertation.git)
+- [Open Science Framework (OSF)](https://osf.io/52mwx/)
 
 ## Introduction
 
