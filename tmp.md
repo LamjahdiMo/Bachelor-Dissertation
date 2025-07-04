@@ -1,3 +1,7 @@
+# Solving Linear Systems in O(1): The 2X, Matrix Inversion, and Gitter Methods
+
+### *By admin – HUBDMGD Platform*
+
 ## Introduction
 
 For decades, Gaussian and Gauss-Jordan elimination have stood as the standard tools for solving linear systems. These methods, though reliable, come with a price: **time**. Specifically, they involve computational complexity on the order of `O(n^3)`, which becomes a bottleneck in real-time and high-precision applications.
