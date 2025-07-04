@@ -12,7 +12,7 @@ This post introduces and formalizes three alternative methods:
 - **A direct constant-time Matrix Inversion**
 - **The Gitter / 4X Method** (for 3×3 systems)
 
-These methods claim **constant-time performance (`O(1)`)**, achieved through **visual cross-structure logic**, not row manipulation or pivoting. By replacing multi-step algorithms with single-step visual-algebraic identities, they aim to **outperform traditional methods both in speed and conceptual clarity.**
+These methods provide **constant-time performance (`O(1)`)**, achieved through **visual cross-structure logic**, not row manipulation or pivoting. By replacing multi-step algorithms with single-step visual-algebraic identities, they aim to **outperform traditional methods both in speed and conceptual clarity.**
 
 ---
 
