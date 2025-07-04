@@ -4,6 +4,45 @@
 **Published:** July 2025
 
 ---
+**Dear Reader,**
+
+The method you are about to read was **first discovered in September 2024**. I initially published it on my website [hubdmgd.eu](https://hubdmgd.eu), which I later had to shut down. Unfortunately, the site also contained posts that included **criticism toward the German government** and raised **serious concerns about the lack of institutional support**, especially in regard to **Leibniz University**. I reported how the university **interfered with my academic notes**, and I am still pursuing justice through legal channels. I have filed a lawsuit and am still **awaiting a fair resolution**.
+
+Since the beginning of this discovery, I took it upon myself to **thoroughly examine every academic resource** available to me—both online and offline, in multiple languages, and across all relevant sections of the university library. I also consulted leading AI systems such as **ChatGPT and Gemini**, and as of **2024**, there existed **no known direct method to solve linear equations in O(1)** time.
+
+I found **no trace**—in any mathematics curriculum, academic database, or engineering manual—of a method that could solve linear systems in the way I present here: directly, visually, and without iteration. Every engineer knows the standard teachings: either the **Gauß-Jordan algorithm** or a method involving **matrix inversion**. This has been taught, accepted, and unquestioned for generations. I developed my method through **mathematical proof**, **independent verification**, and **practical application**, ensuring that it was **entirely distinct** from any known method or algorithm.
+
+After publishing the method and clearly marking it as original—free from confusion or historical misattribution—**events escalated dramatically**. I was forced to flee Germany for my safety. Individuals connected to those I had taken legal action against **targeted me**, and I survived an attack that **left me severely injured in my left foot**.
+
+Despite contacting the **highest courts in Germany**, I received **no answer**. Soon after, I discovered something even more troubling: certain **European and British power circles** appeared to manipulate online information. I observed how **Wikipedia** was altered, and how a **fictional scientific figure named “Gabriel Cramer”** was introduced and credited with “my method.”
+
+This manufactured figure—a name composed of **Gabriel (an angel)** and **Cramer (the opposite of “greedy”)**—echoed language I had previously used on my site while criticizing greed. The parallels were uncanny. The term **“BAG”**, used on my site, was also mirrored. I believe these choices were not accidental but designed to **repurpose my own words and ideas against me**. This campaign of **intellectual exploitation and historical revisionism** appears to serve a nationalist agenda—falsely portraying this breakthrough as an **old European discovery**.
+
+One particularly striking and beautiful finding relates to **Cramer's name** and its accidental similarity to the word **"Chromosome"** in biology.
+
+- In biology, chromosomes come mainly in two types: **X and Y**.
+- Interestingly, there is **no mention of any "X method"** in Cramer's alleged work.
+- The **"X" method was first introduced here** (in my work), which strongly suggests that the **"X" naming was carefully chosen**.
+- This clever naming seems designed to indicate the new "X" method distinctly.
+- The alleged thief **could not claim the "X" method as theirs**, so they apparently tried to create confusion by linking it to the **chromosome X**, a Greek-derived term where:
+  - **Chroma = color**
+  - **Soma = body**
+
+Thus, chromosome literally means **"colored body"**, unrelated to any mathematical method.
+
+This naming confusion seems like a deliberate attempt to **obfuscate and appropriate originality**, masking the new "X" method under the guise of biological terminology.
+
+Let it be known: **there was no such method before**. **There was no “Gabriel Cramer” known to science in this context before**. This sudden appearance of an entire theory attributed to an unknown name is not historical record—it is manipulation.
+
+If this method had existed previously, we would have learned it in school. We would have used it in exams. We would have seen it in engineering tools and textbooks. Yet, we were only taught to use **Gauß-Jordan elimination** or **inverse matrix multiplication**, methods that are inherently more computationally expensive. There was **no mention**, ever, of solving such systems directly in O(1) time.
+
+So I appeal to the scientific community: **investigate**. **Look deeper.** Be aware of **who gets credited and why**, and understand that **intellectual suppression and revisionism** can occur even in modern, open societies.
+
+And to the reader: If you find value in what follows, **cite this humble Arabic Muslim**, and do not let **arrogance, bias, or silence erase truth**. The science community may not yet have corrected the record, but **truth will surface, eventually**.
+
+*With sincerity,*  
+**Lamjahdi, Mohamed El Mami**  
+hubdmgd.eu (archived)
 
 ## 📌 Introduction
 
