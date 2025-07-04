@@ -1,71 +1,76 @@
-# Dynamische Regelung der Walzkraft beim mechanischen Festwalzen
+# Dynamic Control of Rolling Force in Mechanical Burnishing  
 [![DOI](https://zenodo.org/badge/1012079348.svg)](https://doi.org/10.5281/zenodo.15786688)
 
+## About the Thesis
 
-## Über die Arbeit
+This bachelor’s thesis addresses the development, simulation, and implementation of a control system for the dynamic regulation of rolling force during mechanical burnishing. The focus is on managing transfer stagnation and disturbances in the rolling process using modern control engineering approaches such as PID controllers, Smith predictors, and innovative estimation methods.
 
-Diese Bachelorarbeit behandelt die Entwicklung, Simulation und Implementierung eines Regelungssystems zur dynamischen Steuerung der Walzkraft beim mechanischen Festwalzen. Im Fokus steht der Umgang mit Transferstagnation und Störeinflüssen im Walzprozess unter Verwendung moderner regelungstechnischer Ansätze wie PID-Regler, Smith-Prädiktor und innovativen Schätzverfahren.
+## Hyperlinks
+- [Bachelorthesis](Bachelor_Thesis)
+- [Solving Linear Systems in O(1): The 2X, Matrix Inversion, and Gitter Methods](Bachelor_Thesis/O(1)-Methods/O(1)-Methods.md)
+- [Noticed Copyright Infringement](Copyright_Infrimgment)
 
-## Ziel der Arbeit
+## Objective of the Thesis
 
-Ziel ist es, ein intelligentes Regelkonzept zu entwickeln, das:
+The aim is to develop an intelligent control concept that:
 
-- die durch Kommunikationsverzögerungen verursachte Transferstagnation kompensiert,
-- externe Störungen herausfiltert,
-- die Festwalzkraft positionsabhängig und in Echtzeit regelt,
-- auf einem Industrie-PC (IPC) mit TwinCAT umgesetzt werden kann.
+- Compensates for transfer stagnation caused by communication delays  
+- Filters out external disturbances  
+- Regulates the burnishing force in a position-dependent manner and in real time  
+- Can be implemented on an industrial PC (IPC) using TwinCAT
 
-## Methodik
+## Methodology
 
-Die Arbeit gliedert sich in mehrere Phasen:
+The work is structured into several phases:
 
-1. **Theoretische Grundlagen & Literaturrecherche**
-   - Regelungstechnik, LTI-Systeme, Laplace-Transformation, PID-, I-, D-Regler
-   - Bode-Diagramm, Stabilitätskriterien (Nyquist, Hurwitz)
+1. **Theoretical Foundations & Literature Review**
+   - Control engineering, LTI systems, Laplace transformation, PID, I, D controllers  
+   - Bode diagram, stability criteria (Nyquist, Hurwitz)
 
-2. **Analyse des Walzprozesses**
-   - Charakterisierung des Festwalzverhaltens
-   - Problematische Einflüsse wie Totzeiten und Störungen
+2. **Analysis of the Rolling Process**
+   - Characterization of burnishing behavior  
+   - Problematic influences such as dead time and disturbances
 
-3. **Regelungsansätze**
-   - PID-Regler mit und ohne Modifikation
-   - Smith-Schätzer zur Kompensation von Totzeiten
-   - Zwei eigens entwickelte Schätzer (M.A.- und M.E.-Schätzer)
+3. **Control Approaches**
+   - PID controllers with and without modifications  
+   - Smith predictor to compensate for dead time  
+   - Two custom-developed estimators (M.A. and M.E. estimators)
 
-4. **Simulation & Verifikation**
-   - MATLAB/Simulink, SolidWorks, Ansys
-   - TwinCAT-Programmierung, Beckhoff-Dashboard
-   - Testen unter realitätsnahen, auch extremen Bedingungen
+4. **Simulation & Verification**
+   - MATLAB/Simulink, SolidWorks, Ansys  
+   - TwinCAT programming, Beckhoff dashboard  
+   - Testing under realistic and extreme conditions
 
-## Ergebnisse
+## Results
 
-- Die Kombination aus Echtzeit-Mittelwert-Schätzung, Smith-Vorsteuerung und optimierten PID-Parametern liefert die stabilste und effizienteste Regelung.
-- Die entwickelten Schätzer verbesserten die Reaktionsfähigkeit signifikant.
-- Die entwickelte Lösung ist robust gegenüber Störungen und für industrielle Anwendungen geeignet.
+- The combination of real-time moving average estimation, Smith feedforward, and optimized PID parameters provides the most stable and efficient control  
+- The developed estimators significantly improved responsiveness  
+- The resulting solution is robust against disturbances and suitable for industrial applications
 
-## Technologien & Tools
+## Technologies & Tools
 
-- **Simulink / MATLAB**
-- **Beckhoff TwinCAT / Windows-Control**
-- **Python (für Analyse & Datenverarbeitung)**
-- **SolidWorks, Ansys**
-- **OPC-UA** zur Kommunikation zwischen Steuerung und Sensorik
+- **Simulink / MATLAB**  
+- **Beckhoff TwinCAT / Windows Control**  
+- **Python** (for analysis & data processing)  
+- **SolidWorks, Ansys**  
+- **OPC-UA** for communication between control system and sensors
 
-## Betreuer & Prüfende
+## Supervisors & Examiners
 
-- **Institut:** Institut für Fertigungstechnik und Werkzeugmaschinen (IFW)
-- **Erstprüfer:** Prof. Dr.-Ing. Bernd Ponick.
-- **Zweitprüfer:** Prof. Dr.-Ing Berend Denkena.
-- **Betreuer:** Msc. Jan, Berlin.
+- **Institute:** Institute of Production Engineering and Machine Tools (IFW)  
+- **First Examiner:** Prof. Dr.-Ing. Bernd Ponick  
+- **Second Examiner:** Prof. Dr.-Ing. Berend Denkena  
+- **Supervisor:** MSc. Jan, Berlin
 
-## Abgabe
+## Submission
 
-- **Datum:** September 2024
-- **Ort:** Garbsen / Universität Hannover
+- **Date:** September 2024  
+- **Location:** Garbsen / University of Hanover
 
-## Hinweis
+## Note
 
-Diese Arbeit wurde eigenständig angefertigt. Jegliche Hilfe ist im Literaturverzeichnis kenntlich gemacht. Der Quellcode und die ausführbaren Implementierungen befinden sich nicht im Repository dieser Datei und sind ggf. beim Autor auf Anfrage erhältlich.
+This thesis was completed independently. All assistance is cited in the bibliography. The source code and executable implementations are not included in this repository and can be obtained from the author upon request.
 
 ---
+
 
