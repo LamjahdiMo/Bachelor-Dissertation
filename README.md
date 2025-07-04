@@ -1,4 +1,4 @@
-# Dynamic Control of Rolling Force in Mechanical Burnishing  
+# Dynamic Control of Rolling Force in Mechanical Deep Rolling
 
 
 ## About the Thesis
