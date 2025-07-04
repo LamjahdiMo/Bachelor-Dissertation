@@ -7,7 +7,7 @@ This bachelor’s thesis addresses the development, simulation, and implementati
 
 ## Hyperlinks
 - [Bachelorthesis](Bachelor_Thesis)
-- [Solving Linear Systems in O(1): The 2X, Matrix Inversion, and Gitter Methods](Bachelor_Thesis/O(1)-Methods/O(1)-Methods.md)
+- [Solving Linear Systems in O(1): The 2X, Matrix Inversion, and Gitter Methods](Bachelor_Thesis/O(1)-Methods)
 - [Noticed Copyright Infringement](Copyright_Infrimgment)
 
 ## Objective of the Thesis
