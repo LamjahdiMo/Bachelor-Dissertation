@@ -1,17 +1,1 @@
-cff-version: 1.2.0
-message: "If you use this work, please cite the original author as below."
-title: "Dynamic Control of Rolling Force in Mechanical Burnishing"
-authors:
-  - family-name: Lamjahdi
-    given-names: Mohamed El Mami
-    affiliation: HUBDMGD Platform, Leibniz University
-    orcid: "https://orcid.org/0009-0008-0532-9338"
-date-released: 2024-09-30
-url: "https://github.com/LamjahdiMo/Bachelor-Dissertation"
-abstract: >
-  This repository presents a novel set of algebraic predictors using new set of algebraic techniques—2X, Matrix Inversion, and Gitter (4X)—that solve linear systems of equations in constant time (O(1)). 
-  Originally discovered in September 2024 and independently verified as previously undocumented, these methods utilize cross-structural "X-drawings" and visual substitutions 
-  to replace traditional Gaussian elimination or matrix inversion procedures. The author asserts that no such direct method existed in scientific or educational literature 
-  prior to this discovery.
-version: "1.1.0"
-license: "CC-BY-4.0"
+
