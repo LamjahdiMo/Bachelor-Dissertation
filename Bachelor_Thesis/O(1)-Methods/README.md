@@ -1,6 +1,9 @@
 # Solving Linear Systems in O(1): The 2X, Matrix Inversion, and Gitter Methods
 
-### *By admin (Lamjahdi, Mohamed El Mami) – HUBDMGD Platform*
+[![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/52MWX.svg)](https://doi.org/10.17605/OSF.IO/52MWX)
+
+
+### *By admin (Lamjahdi, Mohamed El Mami) – HUBDMGD Platform* (2024)
 
 ## Hyperlinks
 - [Bachelorthesis](https://github.com/LamjahdiMo/Bachelor-Dissertation.git)
