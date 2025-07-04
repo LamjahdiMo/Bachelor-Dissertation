@@ -1,6 +1,6 @@
 # Dynamic Control of Rolling Force in Mechanical Deep Rolling
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15809105.svg)](https://doi.org/10.5281/zenodo.15809105)
 ## About the Thesis
 
 This bachelor’s thesis addresses the development, simulation, and implementation of a control system for the dynamic regulation of rolling force during mechanical burnishing. The focus is on managing transfer stagnation and disturbances in the rolling process using modern control engineering approaches such as PID controllers, Smith predictors, and innovative estimation methods.
