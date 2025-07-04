@@ -1,6 +1,6 @@
 # Solving Linear Systems in O(1): The 2X, Matrix Inversion, and Gitter Methods
 
-### *By admin – HUBDMGD Platform*
+### *By admin (Lamjahdi, Mohamed El Mami) – HUBDMGD Platform*
 
 ## Introduction
 
