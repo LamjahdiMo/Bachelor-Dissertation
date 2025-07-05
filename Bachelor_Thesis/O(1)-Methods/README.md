@@ -7,6 +7,7 @@
 
 ## Hyperlinks
 - [Bachelorthesis](https://github.com/LamjahdiMo/Bachelor-Dissertation.git)
+- [6X-Method for solving 4x4 Linear Equations in O(1)](Bachelor_Thesis/O(1)-Methods/6X.pdf) [![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/4W3EF.svg)](https://doi.org/10.17605/OSF.IO/4W3EF)
 - [Open Science Framework (OSF)](https://osf.io/52mwx/)
 
 ## Introduction
