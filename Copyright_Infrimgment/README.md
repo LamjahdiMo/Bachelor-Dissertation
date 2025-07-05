@@ -269,7 +269,7 @@ Given the thorough search of these key sources, the absence of such methods stro
 
 # 📊 Comparative Analysis: Fast Methods for Solving Linear Systems
 
-[Download Chat](https://github.com/LamjahdiMo/Bachelor-Dissertation/blob/main/Copyright_Infrimgment/Evidence_DevTools/Fast%20Linear%20Solvers.pdf)
+[Download Chat](https://github.com/LamjahdiMo/Bachelor-Dissertation/blob/main/Copyright_Infrimgment/Evidence_DevTools/Fast%20Linear%20Solvers.html)
 
 ### ✅ Finalized on: July 5, 2025  
 **Platform**: ChatGPT (GPT-4o with browsing)  
