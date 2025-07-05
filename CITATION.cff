@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this Thesis, please cite it using the following metadata."
+title: "Bachelor Dissertation"
+version: "1.4"
+doi: "10.5281/zenodo.15809105"
+authors:
+  - family-names: "Lamjahdi"
+    given-names: "Mohamed El Mami"
+    orcid: "0009-0008-0532-9338"
+date-released: "2025-07-05"
+abstract: |
+  This repository contains the Bachelor dissertation authored by Mo Lamjahdi,
+  covering [brief description of topic]. Includes source files, data, and supplementary materials.
+keywords:
+  - bachelor dissertation
+  - Control Engineering, Machanical Deep Rolling, O(1) Solutions for Linear Equations
+repository-code: "https://github.com/LamjahdiMo/Bachelor-Dissertation"
+license: "CC-BY-4.0"
+url: "https://github.com/LamjahdiMo/Bachelor-Dissertation"
