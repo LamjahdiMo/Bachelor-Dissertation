@@ -276,7 +276,8 @@ Given the thorough search of these key sources, the absence of such methods stro
 **User Info**: 🔒 Not collected (per OpenAI privacy policy)  
 **Objective**: To determine if any known method is faster or more general than the O(1) methods described in [this GitHub README](https://github.com/LamjahdiMo/Bachelor-Dissertation/blob/main/Bachelor_Thesis/O(1)-Methods/README.md).
 
-[Download Chat](https://github.com/LamjahdiMo/Bachelor-Dissertation/blob/main/Copyright_Infrimgment/Evidence_DevTools/Fast%20Linear%20Solvers.pdf)
+[Download Chat](https://github.com/LamjahdiMo/Bachelor-Dissertation/blob/main/Copyright_Infrimgment/Evidence_DevTools/Fast%20Linear%20Solvers.html)
+
 ---
 
 ## 📚 Journals & Institutions Referenced
