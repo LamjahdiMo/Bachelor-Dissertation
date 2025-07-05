@@ -174,7 +174,7 @@ The **McTutor Mathematical Archive** presents a striking case of exploitation an
 
 
 ### ✅ Finalized on: July 5, 2025  
-**Platform**: ChatGPT (GPT-4o with browsing)  [Download Chat](Copyright_Infrimgment/Evidence_DevTools/Fast Linear Solvers.pdf)
+**Platform**: ChatGPT (GPT-4o with browsing) 
 **User Info**: 🔒 Not collected (per OpenAI privacy policy)  
 **Objective**: To determine if any known method is faster or more general than the O(1) methods described in [this GitHub README](https://github.com/LamjahdiMo/Bachelor-Dissertation/blob/main/Bachelor_Thesis/O(1)-Methods/README.md).
 
