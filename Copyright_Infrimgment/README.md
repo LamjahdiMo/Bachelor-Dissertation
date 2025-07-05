@@ -178,7 +178,7 @@ The **McTutor Mathematical Archive** presents a striking case of exploitation an
 **User Info**: 🔒 Not collected (per OpenAI privacy policy)  
 **Objective**: To determine if any known method is faster or more general than the O(1) methods described in [this GitHub README](https://github.com/LamjahdiMo/Bachelor-Dissertation/blob/main/Bachelor_Thesis/O(1)-Methods/README.md).
 
-[Download Chat](Copyright_Infrimgment/Evidence_DevTools/Fast20%Linear20%Solvers.html).
+[Download Chat](Copyright_Infrimgment/Evidence_DevTools/Fast_Linear_Solvers.html).
 
 ---
 
