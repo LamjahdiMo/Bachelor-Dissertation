@@ -8,7 +8,7 @@ This bachelor’s thesis addresses the development, simulation, and implementati
 ## Hyperlinks
 - [Bachelorthesis](Bachelor_Thesis)
 - [Solving Linear Systems in O(1): The 2X, Matrix Inversion, and Gitter Methods](Bachelor_Thesis/O(1)-Methods) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15838111.svg)](https://doi.org/10.5281/zenodo.15838111)
-- [6X-Method for solving 4x4 Linear Equations in O(1)](Bachelor_Thesis/O(1)-Methods/6X.pdf) [![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/4W3EF.svg)](https://doi.org/10.17605/OSF.IO/4W3EF)
+- [6X-Method for solving 4x4 Linear Equations in O(1)](Bachelor_Thesis/O(1)-Methods/6X.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15838306.svg)](https://doi.org/10.5281/zenodo.15838306)
 
 - [Noticed Copyright Infringement](Copyright_Infrimgment)
 
