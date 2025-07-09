@@ -365,6 +365,159 @@ Given the thorough search of these key sources, the absence of such methods stro
 
 ---
 
+## 📌 Additional Findings: Citation Anomalies, Metadata Manipulation & Historical Inaccuracies
+
+### ❗ Symbolic Use of “119” and the Disturbing Link to 9/11
+
+Several Digital Object Identifiers (DOIs) and publication markers show a suspicious and repeated pattern of including the number **“119”**. Examples include:
+
+- `10.1080/0025570X.1970.11976018` – Published by Taylor & Francis
+- DOI and article IDs containing “119” used for content falsely attributed to "A.A. Kosinski"—a name and acronym with suspicious resemblance to terms and identities connected to the author.
+
+This repeated use of “119” (mirroring “9/11”) appears **intentional and symbolic**, possibly intended to create subconscious or artificial associations between the author and 9/11 events. It is worth noting:
+
+- The author was **only 4 years old in 2001** and from a **region with no conflictual history** related to the 9/11 attacks.
+- This pattern may indicate a **coordinated attempt to divert focus, sow misinformation, or indirectly criminalize** the real innovator of the method discussed.
+
+> **Such tactics not only distract from the issue of academic theft but also border on character defamation and symbolic profiling.**
+
+---
+
+### 🧾 Historical Contradiction: Gabriel Cramer and Gottfried Wilhelm Leibniz
+
+On the **Wikipedia page for Gabriel Cramer**, it is written:
+
+> "*Veröffentlichung (gemeinsam mit Johann Castillon) des Briefwechsels zwischen Johann Bernoulli und Gottfried Wilhelm Leibniz. 1745.*"
+
+However, **Leibniz died in 1716** according to Wikipedia itself and well-established historical records.
+
+- This creates a **logical impossibility**: Cramer could not have published a correspondence with someone who had died **29 years earlier**.
+- Screenshots of both the Wikipedia statement and the historical death date of Leibniz are provided in the repository.
+
+> This is a **clear factual inconsistency** that undermines the reliability of the cited source and the historical legitimacy of the Cramer attribution.
+
+---
+
+### 🧠 Discrimination Through Academic Fabrication
+
+The evidence points to more than just an academic dispute—it illustrates a systematic effort to:
+
+- Misappropriate original work developed by the author;
+- Redirect credit to **fictional or unverifiable European authors** (e.g., “A.A. Kosinski” and ambiguous citations with zero traceable origin);
+- Exploit systems like DOI, ISBN, and Wikipedia editing structures to **restructure academic history** in favor of specific geopolitical or racial narratives.
+
+> The attempt to connect the author's background to misleading symbolic markers (like “119”) is not only unethical—it could be interpreted as an act of **racial targeting or a hate crime**.
+
+---
+
+## 🧭 Clarifying Objectivity, Misinterpretations & Name Exploitation
+
+### 🔍 The Burden of Over-Explanation
+
+One of the most **exhausting challenges** when working in such a highly sensitive and manipulated academic environment is the **need to constantly explain things** that should be self-evident.
+
+In many situations, I’ve been forced to clarify points that would not require elaboration in a fair and professional context. Unfortunately, **those who seek to undermine intellectual contributions** often rely on **linguistic confusion, cultural misinterpretation, or symbolic distortion** to manipulate perception or redirect credit.
+
+---
+
+### 📖 What Does Objectivity Mean?
+
+**Objectivity** means the ability to:
+
+- Understand ideas **in their proper context**,  
+- Avoid **binding them emotionally or culturally** to one’s own environment,  
+- Not confuse concepts with what “sounds similar” or “feels familiar,” and  
+- Absolutely **avoid mistranslation or symbolic reassignment** based on unrelated patterns.
+
+In science, you must judge an idea **for what it is**, not for how closely it resembles something in your personal, national, or emotional world.
+
+> If you are not capable of objectivity, then you have no place in fair scientific evaluation or peer review.
+
+---
+
+### 🧠 Example: Gauß-Jordan ≠ Jordan the Country or the Brand
+
+Take for example the **Gauß-Jordan elimination method**. "Jordan" here refers to **Wilhelm Jordan**, a mathematician—not the **country Jordan**, nor the **“Jordan”™ sports brand**.
+
+Yet many people—intentionally or due to confusion—conflict these unrelated references to distract or **twist attention toward a fabricated association**.
+
+> This shows how easily **wordplay and misdirection** can be used as tools for misappropriation, particularly by those who understand how to manipulate human cognitive shortcuts.
+
+---
+
+### 🔧 Misuse of Developer Terms: "DevTools" and the Creation of "David Poole"
+
+Another example is the use of browser **DevTools**, which I referred to on July 4th while explaining how one can inspect a webpage's HTTP headers to determine the **last modified date**.
+
+Coincidentally, or perhaps deliberately, this term and context were followed by referencing a fabricated or misused name: **Professor David Poole**, which phonetically mirrors "DevTool." This type of manipulation seems like a subtle attempt to **connect my technical explanation with a fictional or unrelated authority**, thereby:
+
+- **Shifting attribution**, and  
+- **Obscuring the original author's expertise**.
+
+---
+
+### 👥 Exploiting Similarities for Manipulation
+
+I am very familiar with how this game works.
+
+- People sometimes try to build **false bridges based on superficial similarities**—a few letters in a name, a sound, or an acronym.
+- They **claim commonality** only when it **benefits their own status**.
+
+For example:
+
+- My residency document contains the word **“ARD”**.
+- Some people interpreted this as **“FORD”** (by adding “F” and replacing “A” with “O”), or as **“Fahrrad”** (the German word for bicycle).
+
+This level of symbolic free-association would be **laughable**, if it were not **actively used in bad faith to claim scientific or cultural proximity**.
+
+> It’s the scientific equivalent of saying that **H₂O** and **H₃O⁺** are “basically the same.”  
+> One is water, the other is a form of acid. The difference **could kill you**.
+
+---
+
+### ⚖️ On Individual Responsibility and Rights
+
+Let me be absolutely clear:
+
+- **When you are over 18, you are responsible for your actions**.
+- If you **commit a crime**, you face the legal consequences—no friend, family member, or colleague can replace that responsibility.
+- Yet, when it comes to **credit for hard work**, some people suddenly act like “we’ll take responsibility for your success.”
+
+But only if it **helps them**.
+
+> When it comes to failure or legal risks, these same people are nowhere to be found.  
+> This is **not acceptable** in science, in law, or in any ethical system.
+
+---
+
+### 🌍 Humans Cooperate, But Not on Fabricated Terms
+
+We, as humans, are **biologically and socially designed** to find patterns, work together, and connect through **shared DNA, language, or culture**.
+
+But scientific credit and legal rights **cannot and must not** be based on:
+
+- **Artificially manufactured similarities**,  
+- **Phonetic overlaps**, or  
+- **Geopolitical narratives** used to justify misappropriation.
+
+> Real cooperation is **Win–Win** or **Loss–Loss**.  
+> Exploiting others through **Win–Lose** mechanisms is unjust, unsustainable, and unethical.
+
+---
+
+I advocate for genuine cooperation, shared progress, and equal respect for all—but I will **firmly protect my intellectual and legal rights** against exploitation.
+
+
+
+### 📣 Final Position
+
+A copyright infringement is **clearly proven and documented**. 
+
+- Attempts to hide or manipulate this truth using metadata structures, unverifiable citations, and character-deflecting tactics only further validate the concerns raised.
+- This act damages not only the individual who was exploited, but also the credibility of **Wikipedia, academic publishers, and citation infrastructures** when misused for personal or political agendas.
+
+> **This documentation is made publicly available for transparency, legal validation, and the protection of all future contributors facing similar injustice.**
+
 
 
 
