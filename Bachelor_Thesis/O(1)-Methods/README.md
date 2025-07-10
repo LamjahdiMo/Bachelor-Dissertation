@@ -8,6 +8,8 @@
 ## Hyperlinks
 - [Bachelorthesis](https://github.com/LamjahdiMo/Bachelor-Dissertation.git)
 - [6X-Method for solving 4x4 Linear Equations in O(1)](6X.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15838306.svg)](https://doi.org/10.5281/zenodo.15838306)
+- [Solutions of 3×3 Systems of Linear Equations Presented on a
+Golden Plate](Direct_Solutions_For_3by3_Systems.pdf)
   
 
 ## Introduction
